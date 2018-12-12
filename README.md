@@ -13,7 +13,7 @@ An ellipsoid geometry for 3D rendering, including normals, UVs and cell indices 
 npm install primitive-ellipsoid
 ```
 
-[![NPM](https://nodei.co/npm/primitive-ellipsoid.png)](https://nodei.co/npm/primitive-ellipsoid/)
+[![NPM](https://nodei.co/npm/primitive-ellipsoid.png)](https://nodei.co/npm/primitive-ellipsoid/) [![Greenkeeper badge](https://badges.greenkeeper.io/dmnsgn/primitive-ellipsoid.svg)](https://greenkeeper.io/)
 
 ## Usage
 
